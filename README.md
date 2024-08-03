@@ -1,5 +1,41 @@
 ## Hi there 👋
 
+![00022-1862392531](https://github.com/user-attachments/assets/1362725c-af08-4969-8ca1-011ae97e3002)
+
+I'm enHANSced, a passionate and versatile student of computer engineering with a love for almost everything, except perhaps agronomy, though I'm willing to give it a try if necessary. I strive to make each day different from the last by engaging in various activities. I'm also a vegetarian with no issues with eggs, milk, or some processed meats like ham.
+
+### 🔭 I’m currently working on:
+- Nothing, i'm a student but open to any proposal.
+
+### 🌱 I’m currently learning:
+- Advanced programming techniques and frameworks.
+- New languages and tools to expand my tech stack.
+- Exploring deeper aspects of computer science.
+
+### 👯 I’m looking to collaborate on:
+- Open source projects that make a difference.
+- Creative and challenging software development projects.
+- Interdisciplinary projects that combine tech with art, especially in music and photography.
+
+### 🤔 I’m looking for help with:
+- Ideas and feedback on my current projects.
+- Collaboration opportunities that can help me grow and learn.
+
+### 💬 Ask me about:
+- Anything related to art, especially cinema, music, and photography.
+- Tips on balancing diverse interests and making each day unique.
+
+### 📫 How to reach me:
+- [Email](kennerbarahona14@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kenner-barahona-b176b020b/)
+
+### 😄 Pronouns:
+- He/Him
+
+### ⚡ Fun fact:
+- I compose songs, well I try...
+
+
 <!--
 **enHANSced/enHANSced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
