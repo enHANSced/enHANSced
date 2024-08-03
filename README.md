@@ -4,9 +4,6 @@
 
 I'm enHANSced, a passionate and versatile student of computer engineering with a love for almost everything, except perhaps agronomy, though I'm willing to give it a try if necessary. I strive to make each day different from the last by engaging in various activities. I'm also a vegetarian with no issues with eggs, milk, or some processed meats like ham.
 
-### 🔭 I’m currently working on:
-- Nothing, i'm a student but open to any proposal.
-
 ### 🌱 I’m currently learning:
 - Advanced programming techniques and frameworks.
 - New languages and tools to expand my tech stack.
@@ -15,7 +12,6 @@ I'm enHANSced, a passionate and versatile student of computer engineering with a
 ### 👯 I’m looking to collaborate on:
 - Open source projects that make a difference.
 - Creative and challenging software development projects.
-- Interdisciplinary projects that combine tech with art, especially in music and photography.
 
 ### 🤔 I’m looking for help with:
 - Ideas and feedback on my current projects.
