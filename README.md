@@ -2,7 +2,7 @@
 
 ![00022-1862392531](https://github.com/user-attachments/assets/1362725c-af08-4969-8ca1-011ae97e3002)
 
-I'm enHANSced, a passionate and versatile student of computer engineering with a love for almost everything, except perhaps agronomy, though I'm willing to give it a try if necessary. I strive to make each day different from the last by engaging in various activities. I'm also a vegetarian with no issues with eggs, milk, or some processed meats like ham.
+I'm enHANSced, a passionate and versatile student of computer engineering with a love for almost everything, except perhaps agronomy, though I'm willing to give it a try if necessary. I strive to make each day different from the last by engaging in various activities.
 
 ### 🌱 I’m currently learning:
 - Advanced programming techniques and frameworks.
@@ -16,10 +16,6 @@ I'm enHANSced, a passionate and versatile student of computer engineering with a
 ### 🤔 I’m looking for help with:
 - Ideas and feedback on my current projects.
 - Collaboration opportunities that can help me grow and learn.
-
-### 💬 Ask me about:
-- Anything related to art, especially cinema, music, and photography.
-- Tips on balancing diverse interests and making each day unique.
 
 ### 📫 How to reach me:
 - [Email](kennerbarahona14@gmail.com)
