@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![image](https://github.com/user-attachments/assets/93f9bd8a-99d2-4d7f-9fa4-e1280b8c0067|width=10)
+![image](https://github.com/user-attachments/assets/93f9bd8a-99d2-4d7f-9fa4-e1280b8c0067=250x250)
 
 
 I'm enHANSced, a passionate and versatile student of computer engineering with a love for almost everything, except perhaps agronomy, though I'm willing to give it a try if necessary. I strive to make each day different from the last by engaging in various activities.
